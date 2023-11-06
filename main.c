@@ -20,6 +20,7 @@ int main(){
         deplacerSnoppy(&snoppy, plateau);
         afficherPlateau(plateau);
     }
+    printf("Hello");
     return 0;
 
 }
